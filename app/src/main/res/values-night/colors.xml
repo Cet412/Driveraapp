@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md3_primary">#FFD0BCFF</color>  <!-- Primer dark mode -->
+    <color name="md3_on_primary">#FF381E72</color>
+    <color name="md3_surface">#FF1C1B1F</color>
+    <color name="md3_on_surface">#FFE6E1E5</color>
+</resources>
